@@ -45,7 +45,7 @@ To set up the project on your local machine, follow these steps:
     sudo nano /etc/tor/torrc
     ```
 
-    Ensure the following line is present:
+    Ensure the following line is present (listens on 9050 by default):
 
     ```bash
     SocksPort 9050

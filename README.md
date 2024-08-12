@@ -1,6 +1,6 @@
 # TOR-from-scratch
 
-![TOR Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Tor-logo-2011-flat.svg/1920px-Tor-logo-2011-flat.svg.png)
+![TOR Logo]([https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Tor-logo-2011-flat.svg/1920px-Tor-logo-2011-flat.svg.png](https://static1.xdaimages.com/wordpress/wp-content/uploads/2018/09/tor-logo.jpeg)
 
 ## Table of Contents
 

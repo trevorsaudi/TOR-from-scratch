@@ -59,7 +59,7 @@ To set up the project on your local machine, follow these steps:
 
 ## Usage
 
-To use the Tor network as configured in this project, run the `main` application with the host and port as command-line arguments.
+To use the Tor network as configured in this project, run the `main` application with the host and port as command-line arguments. This will effectively route your traffic through the TOR network to the target
 
 ### Basic Usage
 
